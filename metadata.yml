@@ -1,0 +1,14 @@
+---
+:id: 144436291
+:submitters:
+- :name: Rishit Patil
+  :email: rpatil5@wisc.edu
+- :name: AKSHAY GONA
+  :email: gona@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-27 21:59:22.172839000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-27 14:59:22.172839000 Z
+:status: processed
+:score: 43.0
